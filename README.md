@@ -54,4 +54,5 @@ Repository Structure
 └── README.md                       # Project documentation
 
 About the Author
+
 I am a Technology Professional with 7 years of experience in Software QA Management, currently transitioning into Data Science & AI. This project demonstrates my ability to merge traditional quality standards with modern data engineering practices.
