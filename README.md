@@ -45,9 +45,11 @@ Repository Structure
 
 ├── data/
 │   └── retail_store_sales.csv      # Raw input file
+
 ├── outputs/
 │   ├── clean_data.csv              # Production-ready data
 │   └── quarantine_log.csv          # Records failing QA
+
 ├── notebooks/
 │   └── data_validator.ipynb        # Core Python logic
 ├── BUG_REPORT.md                   # Root Cause Analysis for Engineering
